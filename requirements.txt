@@ -1,0 +1,12 @@
+streamlit>=1.50
+pandas
+numpy
+scikit-learn==1.6.1
+xgboost==3.2.0
+plotly
+requests
+ucimlrepo
+fastapi
+uvicorn
+pydantic>=2
+joblib
